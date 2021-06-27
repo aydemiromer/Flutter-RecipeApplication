@@ -16,7 +16,7 @@
 - Data set may be copyrighted. I do not recommend you to use it legally other than testing and I take no responsibility.
 - The dataset is available in JSON format. Data language is Turkish.
 
-#### Flutter App Screenshots
+#### Recipe App Screenshots
 
 <table>
   <tr>
