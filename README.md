@@ -1,3 +1,7 @@
+# The Purpose of the application
+- Nutritional habits may be different for each disease; There are options such as celiac, blood pressure, diabetes, cholesterol, and healthy individuals. This project is an food recommendation system mobile application that recommends dishes specific to the diseases of people with certain diseases.
+
+
 # What you need to do for use
 
 - Create a firebase project.
